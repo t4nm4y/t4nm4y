@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [bit.ly/t4nm4y](bit.ly/t4nm4y)
+- 👨‍💻 All of my projects are available at [bit.ly/t4nm4y](https://bit.ly/t4nm4y)
 
 - 📫 How to reach me **00tanmay@gmail.com**
 
