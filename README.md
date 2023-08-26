@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t4nm4y" alt="t4nm4y" /></a> </p>
 
 - 🌱 I’m currently learning **Web development**
 
