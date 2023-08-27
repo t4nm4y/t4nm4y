@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development (MERN stack)**
 
 - 👨‍💻 All of my projects are available at [bit.ly/t4nm4y](https://bit.ly/t4nm4y)
 
