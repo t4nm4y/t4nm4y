@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 
-- 🌱 I’m currently learning **Web development (MERN stack)**
+- 🌱 I’m currently learning **Spring, Java**
 
 - 👨‍💻 My resume: [bit.ly/t4nm4y](https://bit.ly/t4nm4y)
 
