@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 
-- 🌱 I’m currently learning **Spring, Java**
-
-- 👨‍💻 My resume: [bit.ly/t4nm4y](https://bit.ly/t4nm4y)
-
 - 📫 How to reach me **00tanmay@gmail.com**
 
 - ![](https://komarev.com/ghpvc/?username=t4nm4y)
