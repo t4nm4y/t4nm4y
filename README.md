@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 
-- 📫 How to reach me **00tanmay@gmail.com**
-
 - ![](https://komarev.com/ghpvc/?username=t4nm4y)
 
 ## 🛠 &nbsp;Tech Stack
